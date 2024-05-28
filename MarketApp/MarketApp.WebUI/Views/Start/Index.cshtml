@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+          integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer" />
+    <title>RestaurantWeb</title>
+    <link rel="stylesheet" href="~/MarketAppDesktop/styles/style.css" />
+</head>
+
+<body>
+    <header class="header">
+        <a href="#" class="logo">
+            <img src="~/MarketAppDesktop/images/logo.png" alt="logo" />
+        </a>
+        <nav class="navbar">
+            <a asp-controller="Product" asp-action="Index" class="active">Anasayfa</a>
+            <a asp-page="/Hakkinda">Hakkında</a>
+            <a asp-controller="Product" asp-action="Menu">Menü</a>
+            <a href="#">Ürünler</a>
+            <a href="#">Yorumlar</a>
+            <a href="#">İletişim</a>
+            <a href="#">Blogs</a>
+        </nav>
+
+        <div class="buttons">
+            <button>
+                <i class="fas fa-search"></i>
+            </button>
+            <button>
+
+                <i class="fas fa-shopping-cart">
+
+                </i>
+            </button>
+            <button>
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </header>
+    @RenderBody()
+
+</body>
+</html>

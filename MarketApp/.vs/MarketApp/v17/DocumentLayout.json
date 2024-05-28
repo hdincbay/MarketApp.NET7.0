@@ -1,0 +1,884 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\models\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\models\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022A01B5-25D7-4F28-A181-065F4088F35C}|MarketApp.Entities\\MarketApp.Entities.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022A01B5-25D7-4F28-A181-065F4088F35C}|MarketApp.Entities\\MarketApp.Entities.csproj|solutionrelative:marketapp.entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\wwwroot\\marketappdesktop\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\wwwroot\\marketappdesktop\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\product\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\product\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\areas\\admin\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\areas\\admin\\views\\start\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\pages\\hakkinda.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\pages\\hakkinda.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\pages\\hakkinda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\pages\\hakkinda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\wwwroot\\marketappdesktop\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\wwwroot\\marketappdesktop\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\wwwroot\\marketappdesktop\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\wwwroot\\marketappdesktop\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\wwwroot\\marketappdesktop\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\wwwroot\\marketappdesktop\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\wwwroot\\marketappdesktop\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\wwwroot\\marketappdesktop\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\marketapp.webui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\marketapp.webui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD208B27-C8E4-4835-9298-AE28B422D56D}|MarketApp.WebUI\\MarketApp.WebUI.csproj|solutionrelative:marketapp.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\contracts\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\contracts\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04339564-0697-4E8C-AECB-71A5FE230DDD}|MarketApp.Services\\MarketApp.Services.csproj|solutionrelative:marketapp.services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\contracts\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\contracts\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022A01B5-25D7-4F28-A181-065F4088F35C}|MarketApp.Entities\\MarketApp.Entities.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.entities\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022A01B5-25D7-4F28-A181-065F4088F35C}|MarketApp.Entities\\MarketApp.Entities.csproj|solutionrelative:marketapp.entities\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD63618-E94A-45B7-A394-4B0056FD5DBA}|MarketApp.Repositories\\MarketApp.Repositories.csproj|solutionrelative:marketapp.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022A01B5-25D7-4F28-A181-065F4088F35C}|MarketApp.Entities\\MarketApp.Entities.csproj|c:\\users\\hdinc\\source\\repos\\marketapp\\marketapp.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022A01B5-25D7-4F28-A181-065F4088F35C}|MarketApp.Entities\\MarketApp.Entities.csproj|solutionrelative:marketapp.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T11:48:54.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Models\\ResultModel.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Models\\ResultModel.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Models\\ResultModel.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Models\\ResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T11:03:01.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T09:56:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-09T13:44:10.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-09T13:47:23.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T07:02:33.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAswFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:24:06.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Controllers\\StartController.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Controllers\\StartController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Controllers\\StartController.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Controllers\\StartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T13:20:17.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T10:07:22.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\RepositoryManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:12:52.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:07:48.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "MarketApp.Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:16:10.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-09T13:47:24.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Program.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:19:16.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\ServiceManager.cs",
+              "RelativeToolTip": "MarketApp.Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vxoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T10:01:28.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Start\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\Start\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Start\\Index.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\Start\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T06:34:02.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAQwCYBAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T06:33:09.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MarketApp.Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Entities\\Models\\Product.cs",
+              "RelativeToolTip": "MarketApp.Entities\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T07:52:01.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T06:41:57.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T07:37:35.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Hakkinda.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Pages\\Hakkinda.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Pages\\Hakkinda.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Pages\\Hakkinda.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Pages\\Hakkinda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T06:57:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\about.html",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\about.html",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\about.html",
+              "RelativeToolTip": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\about.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-10T06:59:05.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\register.html",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\register.html",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\register.html",
+              "RelativeToolTip": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\register.html",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwEoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-10T07:36:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T07:36:54.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T07:37:59.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Start\\Index.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Areas\\Admin\\Views\\Start\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Areas\\Admin\\Views\\Start\\Index.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Areas\\Admin\\Views\\Start\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-09T13:20:50.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Product\\Menu.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\Product\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Product\\Menu.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\Product\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-10T06:55:08.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Hakkinda.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Pages\\Hakkinda.cshtml.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Pages\\Hakkinda.cshtml.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Pages\\Hakkinda.cshtml.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Pages\\Hakkinda.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T07:05:13.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "menu.html",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\menu.html",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\menu.html",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\menu.html",
+              "RelativeToolTip": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\menu.html",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-10T06:53:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.html",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\Login.html",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\Login.html",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\Login.html",
+              "RelativeToolTip": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\Login.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-10T06:46:05.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T06:40:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T06:32:51.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StartController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\StartController.cs",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Controllers\\StartController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Controllers\\StartController.cs",
+              "RelativeToolTip": "MarketApp.WebUI\\Controllers\\StartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T06:33:43.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MarketApp.WebUI",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\MarketApp.WebUI.csproj",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\MarketApp.WebUI.csproj",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\MarketApp.WebUI.csproj",
+              "RelativeToolTip": "MarketApp.WebUI\\MarketApp.WebUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-10T06:31:26.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-09T13:49:48.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\index.html",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\index.html",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\index.html",
+              "RelativeToolTip": "MarketApp.WebUI\\wwwroot\\MarketAppDesktop\\index.html",
+              "ViewState": "AQIAADQBAAAAAAAAAAAQwFIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-09T07:54:17.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MarketApp.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MarketApp.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-09T13:50:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\AboutManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\AboutManager.cs",
+              "RelativeToolTip": "MarketApp.Services\\AboutManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:18:37.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\IAboutService.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\Contracts\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\IAboutService.cs",
+              "RelativeToolTip": "MarketApp.Services\\Contracts\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:17:13.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\CategoryManager.cs",
+              "RelativeToolTip": "MarketApp.Services\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:13:45.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\Contracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "MarketApp.Services\\Contracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:12:21.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\ProductManager.cs",
+              "RelativeToolTip": "MarketApp.Services\\ProductManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:08:40.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "MarketApp.Services\\Contracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Services\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "MarketApp.Services\\Contracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:06:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AboutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\AboutRepository.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\AboutRepository.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\AboutRepository.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\AboutRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:14:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\RepositoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T07:55:52.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T07:56:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\Contracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IProductRepository.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\Contracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:00:47.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\Contracts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\Contracts\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:04:33.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IAboutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IAboutRepository.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\Contracts\\IAboutRepository.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\Contracts\\IAboutRepository.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\Contracts\\IAboutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:10:15.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Entities\\Models\\About.cs",
+              "RelativeDocumentMoniker": "MarketApp.Entities\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Entities\\Models\\About.cs",
+              "RelativeToolTip": "MarketApp.Entities\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:09:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:06:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T08:02:10.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "MarketApp.Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "MarketApp.Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T07:58:15.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MarketApp.Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hdinc\\source\\repos\\MarketApp\\MarketApp.Entities\\Models\\Category.cs",
+              "RelativeToolTip": "MarketApp.Entities\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T07:51:37.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

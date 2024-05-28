@@ -1,0 +1,11 @@
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\bin\Debug\net7.0\MarketApp.Entities.deps.json
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\bin\Debug\net7.0\MarketApp.Entities.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\bin\Debug\net7.0\MarketApp.Entities.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\MarketApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\MarketApp.Entities.AssemblyInfoInputs.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\MarketApp.Entities.AssemblyInfo.cs
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\MarketApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\MarketApp.Entities.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\refint\MarketApp.Entities.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\MarketApp.Entities.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Entities\obj\Debug\net7.0\ref\MarketApp.Entities.dll

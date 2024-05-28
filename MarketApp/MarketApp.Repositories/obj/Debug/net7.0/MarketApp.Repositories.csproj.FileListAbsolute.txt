@@ -1,0 +1,15 @@
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\bin\Debug\net7.0\MarketApp.Repositories.deps.json
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\bin\Debug\net7.0\MarketApp.Repositories.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\bin\Debug\net7.0\MarketApp.Repositories.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\bin\Debug\net7.0\MarketApp.Entities.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\bin\Debug\net7.0\MarketApp.Entities.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.csproj.AssemblyReference.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.AssemblyInfoInputs.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.AssemblyInfo.cs
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\refint\MarketApp.Repositories.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketApp.Repositories.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\ref\MarketApp.Repositories.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Repositories\obj\Debug\net7.0\MarketAp.7DF7853E.Up2Date

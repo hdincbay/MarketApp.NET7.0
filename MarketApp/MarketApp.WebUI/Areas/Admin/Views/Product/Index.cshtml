@@ -1,0 +1,41 @@
+﻿@model List<MarketApp.WebUI.Areas.Admin.Models.ResultModel>
+
+<div class="col-md-10 offset-md-1">
+    <div class="d-flex">
+        <span class="justify-content-end">
+            <a asp-controller="Product" asp-action="Create" class="btn btn-danger">Ürün Ekle</a>
+        </span>
+    </div>
+    <table class="table text-center table-hover">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Ürün Adı</th>
+                <th>Fiyat</th>
+                <th>Kategori</th>
+                <th>Resim</th>
+                <th>İŞlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var prd in Model)
+            {
+                <tr>
+                    <td>@prd.ProductId</td>
+                    <td>@prd.ProductName</td>
+                    <td>@prd.Price.ToString("c")</td>
+                    <td>@prd.CategoryName</td>
+                    <td>
+                        <img src="@prd.ImageUrl" width="100px"/>
+                    </td>
+                    <td>
+                        <div class="btn-group">
+                            <a asp-controller="Product" asp-action="Update" asp-route-id="@prd.ProductId" class="btn btn-success">Güncelle</a>
+                            <a asp-controller="Product" asp-action="Delete" asp-route-id="@prd.ProductId" class="btn btn-outline-success">Kaldır</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Services.deps.json
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Services.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Services.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Entities.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Repositories.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Repositories.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\bin\Debug\net7.0\MarketApp.Entities.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.csproj.AssemblyReference.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.AssemblyInfoInputs.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.AssemblyInfo.cs
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\refint\MarketApp.Services.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketApp.Services.pdb
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\ref\MarketApp.Services.dll
+C:\Users\hdinc\source\repos\MarketApp\MarketApp.Services\obj\Debug\net7.0\MarketAp.BB6DAD05.Up2Date
